@@ -44,7 +44,7 @@ This is the backend for a Task Management Application built with Node.js and Exp
 
 3. Create a `.env` file in the root directory and add the following environment variables:
    ```plaintext
-   PORT=5000
+   PORT=5002
    MONGODB_URI=your_mongodb_connection_string
    SESSION_SECRET=your_secret_key
    ```
@@ -56,7 +56,7 @@ This is the backend for a Task Management Application built with Node.js and Exp
    npm start
    ```
 
-2. The server will be running at `http://localhost:5000`.
+2. The server will be running at `http://localhost:5002`.
 
 ## API Endpoints
 
